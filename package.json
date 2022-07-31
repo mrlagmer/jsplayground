@@ -1,0 +1,26 @@
+{
+  "name": "jsplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlagmer/jsplayground.git"
+  },
+  "author": "Stuart Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlagmer/jsplayground/issues"
+  },
+  "homepage": "https://github.com/mrlagmer/jsplayground#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  }
+}
